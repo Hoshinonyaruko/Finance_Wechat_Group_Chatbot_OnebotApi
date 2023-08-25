@@ -1,0 +1,4 @@
+*.key
+*.txt
+config.yaml
+java_sdk/WeWorkFinanceSdk/config.yaml

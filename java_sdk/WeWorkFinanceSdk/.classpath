@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Cosmo/Downloads/commons-codec-1.16.0/commons-codec-1.16.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Cosmo/Downloads/bcpkix-jdk15on-1.70.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Cosmo/Downloads/bcprov-jdk15on-1.70.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Cosmo/Downloads/jackson-databind-2.15.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Cosmo/Downloads/jackson-core-2.15.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Cosmo/Downloads/jackson-datatype-json-org-2.15.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Cosmo/Downloads/jackson-annotations-2.15.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Cosmo/Downloads/jackson-module-afterburner-2.15.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Cosmo/Downloads/jackson-dataformat-yaml-2.15.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Cosmo/Downloads/snakeyaml-2.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

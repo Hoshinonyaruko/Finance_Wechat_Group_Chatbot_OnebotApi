@@ -1,0 +1,14 @@
+token: 
+encoding_aes_key: 
+corp_id: 
+secret: 
+group_id: 
+ws_url_b: 
+bot_id: 
+webhook_key: 
+database:
+  host: 
+  port: 
+  user: 
+  password: 
+  dbname: 
